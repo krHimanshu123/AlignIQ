@@ -41,6 +41,7 @@ A full-stack web application that analyzes posture in real-time using rule-based
 
 ### 1. Clone and Install
 
+
 ```bash
 # Clone the repository
 git clone <your-repo-url>
