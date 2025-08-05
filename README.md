@@ -53,6 +53,7 @@ cd posture-detection-app
 npm run install-all
 ```
 
+
 ### 2. Development Setup
 
 ```bash
