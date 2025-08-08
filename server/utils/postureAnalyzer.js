@@ -115,6 +115,7 @@ class PostureAnalyzer {
         feedback.push('Pull your head back and align your neck with your spine');
       }
 
+    
       // Check shoulder alignment
       const shoulderSlope = Math.abs(leftShoulder.y - rightShoulder.y);
       if (shoulderSlope > 0.05) {
