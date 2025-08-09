@@ -58,6 +58,7 @@ const upload = multer({
 
 const postureAnalyzer = new PostureAnalyzer();
 
+
 // Routes
 app.get('/api/health', (req, res) => {
   res.json({ status: 'Server is running', timestamp: new Date().toISOString() });
