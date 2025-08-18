@@ -2,7 +2,6 @@ class PostureAnalyzer {
   constructor() {
     this.initializeMediaPipe();
   }
-
   
   initializeMediaPipe() {
     // MediaPipe pose detection will be initialized here
