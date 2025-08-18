@@ -3,7 +3,6 @@
 A full-stack web application that analyzes posture in real-time using rule-based logic. Perfect for monitoring squat form and desk posture to promote better health and prevent injuries.
 
 
-
 ## 🌟 Features
 
 - **Real-time Webcam Analysis**: Live posture monitoring with instant feedback
