@@ -10,7 +10,6 @@ class PostureAnalyzer {
   }
 
   
-  
   // Calculate angle between three points
   calculateAngle(point1, point2, point3) {
     const radians = Math.atan2(point3.y - point2.y, point3.x - point2.x) - 
