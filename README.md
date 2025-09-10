@@ -212,6 +212,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Socket.IO for real-time communication
 - All contributors and testers
 
+
 ---
 
 **Built with ❤️ for better posture and health**
