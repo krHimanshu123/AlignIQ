@@ -7,6 +7,7 @@ const http = require('http');
 const socketIo = require('socket.io');
 const PostureAnalyzer = require('./utils/postureAnalyzer');
 
+
 const app = express();
 const server = http.createServer(app);
 const io = socketIo(server, {
