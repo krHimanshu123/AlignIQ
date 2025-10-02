@@ -11,6 +11,7 @@
     "install-all": "npm install && cd server && npm install && cd ../client && npm install"
   },
 
+  
   "keywords": ["posture", "detection", "mediapipe", "react", "nodejs"],
   "author": "Your Name",
   "license": "MIT",
