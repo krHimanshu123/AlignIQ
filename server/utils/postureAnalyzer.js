@@ -8,6 +8,7 @@ class PostureAnalyzer {
     // In a real implementation, you would initialize MediaPipe Pose
     console.log('PostureAnalyzer initialized');
   }
+
   
   // Calculate angle between three points
   calculateAngle(point1, point2, point3) {
